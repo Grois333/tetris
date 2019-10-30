@@ -1,0 +1,21 @@
+nav{
+  position: absolute;
+  /* margin-top: 10px; */
+  margin-top: -630px;
+  margin-left: 1150px;
+  /* margin-left: 800px; */
+  z-index: 1;
+
+  width: 200px;
+}
+
+nav p {
+  color: white;
+  font-family: Pixel,Arial,Helvetica,sans-serif;
+
+}
+
+nav p:hover{
+  cursor: pointer;
+  font-weight: bold;
+}

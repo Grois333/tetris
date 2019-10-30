@@ -1,0 +1,19 @@
+.ma4{
+  /* margin-left: 750px; */
+  margin-left: -150px;
+  /* margin-top: -630px; */
+  position: absolute;
+  z-index: 1;
+
+
+}
+
+
+.Tilt{
+  border: 1px solid white;
+}
+
+.Tilt img{
+  width: 80px;
+  height: 80px;
+}
