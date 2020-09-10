@@ -1,5 +1,7 @@
 This app can be found at the Domain: https://tetris-game-react.herokuapp.com/ 
 
+![drawing](https://raw.githubusercontent.com/Grois333/tetris/master/react-tetris.png)
+
 </br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
